@@ -6,12 +6,30 @@
     "PD-KB401BN": "A4.29",
     "PD-KB401BN-EM": "A4.29",
     "PD-KB401BN-PPM": "A4.29",
+    "PD-KB401BSC": "A8.02",
+    "PD-KB401BSC-EM": "A8.02",
+    "PD-KB401BSC-PPM": "A8.02",
     "PD-KB401W": "A4.29",
     "PD-KB401W-EM": "A4.29",
     "PD-KB401W-PPM": "A4.29",
     "PD-KB401WN": "A4.29",
     "PD-KB401WN-EM": "A4.29",
     "PD-KB401WN-PPM": "A4.29",
+    "PD-KB401WSC": "A8.02",
+    "PD-KB401WSC-EM": "A8.02",
+    "PD-KB401WSC-PPM": "A8.02",
+    "PD-KB401YSC": "A8.02",
+    "PD-KB401YSC-EM": "A8.02",
+    "PD-KB401YSC-PPM": "A8.02",
+    "PD-KB421BSC": "A9.02",
+    "PD-KB421BSC-EM": "A9.02",
+    "PD-KB421BSC-PPM": "A9.02",
+    "PD-KB421WSC": "A9.02",
+    "PD-KB421WSC-EM": "A9.02",
+    "PD-KB421WSC-PPM": "A9.02",
+    "PD-KB421YSC": "A9.02",
+    "PD-KB421YSC-EM": "A9.02",
+    "PD-KB421YSC-PPM": "A9.02",
     "PD-KB800B": "A0.47",
     "PD-KB800B-EM": "A0.47",
     "PD-KB800B-PPM": "A0.47",
@@ -56,7 +74,7 @@
     "PD-KB820YSC": "A2.47"
   },
   "keymapTool": {
-    "Mac": "1.3.0.0",
-    "Win": "1.3.1.3"
+    "Mac": "1.4.0.0",
+    "Win": "1.4.0.3"
   }
 }
